@@ -12,9 +12,9 @@ os.environ['KMP_DUPLICATE_LIB_OK']='True'
 # endpoint
 BASE_URL = "https://paper-api.alpaca.markets/v2"
 # key
-API_KEY = "PK6JJ4ZC7XEL4O50AXZU" # dont forget to delete endpoint, key, and secret
+API_KEY = "" # include your API key
 # secret
-API_SECRET = "10fFaDBfpPKCULhNTViz6Glz3lrxr26qs9E8BQdr"
+API_SECRET = "" # include your API secret 
 
 # Dictionary for Alpaca Broker
 
