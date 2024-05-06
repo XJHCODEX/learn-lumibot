@@ -9,7 +9,7 @@ import os
 
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
-# endpoint
+# endpoint url
 BASE_URL = "https://paper-api.alpaca.markets/v2"
 # key
 API_KEY = "" # include your API key
